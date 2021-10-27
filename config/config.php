@@ -2,10 +2,10 @@
 	session_start();
 
 	// Define database
-	define('dbhost', 'axies.cfky5hslylq4.us-east-2.rds.amazonaws.com');
-	define('dbuser', 'axies');
-	define('dbpass', 'axies1234');
-	define('dbname', 'rent');
+	define('dbhost', 'tesla.c64fy3xyua99.ap-south-1.rds.amazonaws.com');
+	define('dbuser', 'sasi');
+	define('dbpass', 'jamesbond007');
+	define('dbname', 'tesla');
 
 	// Connecting database
 	try {
