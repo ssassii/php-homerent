@@ -138,7 +138,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Search</h2>
-            <h3 class="section-subheading text-muted">Search rooms or homes for hire.</h3>
+            <h3 class="section-subheading text-muted">Search premium rooms or premium homes for hire.</h3>
           </div>
         </div>
         <div class="row">
