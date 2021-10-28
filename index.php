@@ -126,7 +126,7 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome to Aws and Devops Sessions!</div>
+          <div class="intro-lead-in">this is sasi kiran's premium villas</div>
           <div class="intro-heading text-uppercase">Ready for it !<br></div>
         </div>
       </div>
@@ -142,7 +142,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-12"
             <form action="" method="POST" class="center" novalidate>
               <div class="row">
                 <div class="col-md-6">
